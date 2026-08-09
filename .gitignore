@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS / editor
+.DS_Store
+*.code-workspace
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Method write-up — kept out of the repo
+*.pdf
+*.tex
+
+# Raw data and results — not tracked
+*.txt
+*.pxp
+*.png
+*.csv
+GUI/sample_data/
+GUI/output/
+extended_sample2/
+data/
+RECOVERED_results/
